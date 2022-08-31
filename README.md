@@ -2,28 +2,27 @@
   <h1>Matemática Computacional <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></a></h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/06/e0/31/06e031a3969a2632c3145ae7b2ed9d8c.gif" align="right" width="360" height="325" alt="LearnedSomethingTodayAnime-gif">
-</div>
 
 ```
-  __  __       _                       _   _           
- |  \/  | __ _| |_ ___ _ __ ___   __ _| |_(_) ___ __ _ 
+  __  __       _                       _   _
+ |  \/  | __ _| |_ ___ _ __ ___   __ _| |_(_) ___ __ _
  | |\/| |/ _` | __/ _ | '_ ` _ \ / _` | __| |/ __/ _` |
  | |  | | (_| | ||  __| | | | | | (_| | |_| | (_| (_| |
  |_|  |_|\__,_|\__\___|_| |_| |_|\__,_|\__|_|\___\__,_|
-                                                       
-   ____                            _             _                   _ 
+
+   ____                            _             _                   _
   / ___|___  _ __ ___  _ __  _   _| |_ __ _  ___(_) ___  _ __   __ _| |
  | |   / _ \| '_ ` _ \| '_ \| | | | __/ _` |/ __| |/ _ \| '_ \ / _` | |
  | |__| (_) | | | | | | |_) | |_| | || (_| | (__| | (_) | | | | (_| | |
   \____\___/|_| |_| |_| .__/ \__,_|\__\__,_|\___|_|\___/|_| |_|\__,_|_|
-                      |_|                                              
+                      |_|
 ```
+<div align="left">
 
-##
+## ➔ Resumo:
 
 </div>
 
-<div align="center">
-• Repositório com o conteúdo das aulas de Matemática Computacional, ministradas pelo professor Gleison Guardia, utilizando o RStudio e a Linguagem R como ferramentas de aprendizado.
+<div align="left">
+• Este é um repositório contendo conteúdo das aulas de Matemática Computacional, ministradas pelo professor Gleison Guardia, utilizando o RStudio e a Linguagem R como ferramentas de aprendizado.
 </div>
