@@ -2,7 +2,7 @@
   <h1>Matemática Computacional <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></a></h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/06/e0/31/06e031a3969a2632c3145ae7b2ed9d8c.gif" align="right" width="460" height="225" alt="LearnedSomethingTodayAnime-gif">
+  <img src="https://i.pinimg.com/originals/06/e0/31/06e031a3969a2632c3145ae7b2ed9d8c.gif" align="right" width="360" height="325" alt="LearnedSomethingTodayAnime-gif">
 </div>
 
 ```
