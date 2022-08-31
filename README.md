@@ -2,8 +2,8 @@
   <h1>Matemática Computacional <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></a></h1>
   
 <div align="center">
-  <img src="https://c.tenor.com/OB8g47p35MUAAAAC/frustrated-anime.gif" align="right" width="265" height="268" alt="AnimeMath-gif">
-  
+  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" align="right" width="265" height="268" alt="HackerBongocat-gif"></a>
+
 <div align="left">
 
 ```
