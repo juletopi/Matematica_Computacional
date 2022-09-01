@@ -12,6 +12,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/And%20made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Made%20with%20IDE:-RStudio%20-gray.svg?colorA=7a97b2&amp;colorB=76aada&amp;style=for-the-badge" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/And%20made%20with%20language:-R%20-gray.svg?colorA=5986c7&amp;colorB=1F65CC&amp;style=for-the-badge" style="max-width: 100%;">
 </div>
