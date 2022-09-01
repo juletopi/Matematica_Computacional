@@ -1,31 +1,10 @@
+<div align="left">
+  <img src="https://img.shields.io/github/license/juletopi/Matematica_Computacional" alt="MITLiscence-badge">
+
 <div align="center">
-  <h1>Matemática Computacional <img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></h1>
-  
+  <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.emoji.gg/emojis/7244_ConfusedMathLady.gif" width="100px"height="95px" alt="ConfusedMathLady-gif"></a>
+  <h2 align="center">Matemática Computacional</h2>
+
 <div align="center">
-  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" align="right" width="265" height="268" alt="HackerBongocat-gif"></a>
-
-<div align="left">
-
-```
-          __  __       _                       _   _
-         |  \/  | __ _| |_ ___ _ __ ___   __ _| |_(_) ___ __ _
-         | |\/| |/ _` | __/ _ | '_ ` _ \ / _` | __| |/ __/ _` |
-         | |  | | (_| | ||  __| | | | | | (_| | |_| | (_| (_| |
-         |_|  |_|\__,_|\__\___|_| |_| |_|\__,_|\__|_|\___\__,_|
-
-   ____                            _             _                   _
-  / ___|___  _ __ ___  _ __  _   _| |_ __ _  ___(_) ___  _ __   __ _| |
- | |   / _ \| '_ ` _ \| '_ \| | | | __/ _` |/ __| |/ _ \| '_ \ / _` | |
- | |__| (_) | | | | | | |_) | |_| | || (_| | (__| | (_) | | | | (_| | |
-  \____\___/|_| |_| |_| .__/ \__,_|\__\__,_|\___|_|\___/|_| |_|\__,_|_|
-                      |_|
-```
-<div align="left">
-
-## ➔ Resumo:
-
-</div>
-
-<div align="left">
 • Este é um repositório com o conteúdo das aulas de Matemática Computacional, ministradas pelo professor Gleison Guardia, utilizando o RStudio e a Linguagem R como ferramentas de aprendizado.
 </div>
