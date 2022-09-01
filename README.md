@@ -7,7 +7,12 @@
   <h2 align="center">Matemática Computacional</h2>
 
 <div align="center">
-• Este é um repositório com o conteúdo das aulas de Matemática Computacional, ministradas pelo professor Gleison Guardia, utilizando o RStudio e a Linguagem R como ferramentas de aprendizado.
+
+###
+
+• Este é um repositório com o conteúdo das aulas de Matemática Computacional, \
+ministradas pelo professor [**Gleison Guardia**](https://www.linkedin.com/in/gleison-guardia-8aa02994/), utilizando o **RStudio** \
+e a linguagem **R** como ferramentas de aprendizado.
 </div>
 
 ###
