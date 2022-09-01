@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Matemática Computacional <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></a></h1>
+  <h1>Matemática Computacional <img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></h1>
   
 <div align="center">
   <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" align="right" width="265" height="268" alt="HackerBongocat-gif"></a>
