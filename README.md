@@ -32,7 +32,7 @@ e a linguagem **R** como ferramentas de aprendizado.
 
 **Pesquisador da Matemática, Professor de Curso Técnico e Superior & Diretor de Ensino do IFRO Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Julho de 2013</i> \
-Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` \
+Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `Python`\
 Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 <br/>
 <br/>
