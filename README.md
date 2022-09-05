@@ -30,7 +30,7 @@ e a linguagem **R** como ferramentas de aprendizado.
 
 ## 👨‍🏫 Professor:
 
-  <img align="left" height="120px" width="120px" alt="GleisonGuardia-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQH7jDd6qTRliw/profile-displayphoto-shrink_200_200/0/1517554146615?e=1668038400&v=beta&t=isX8gQXtmIIODCWi9bleZsWxF3ijLqlxRSlskmEZF9Y">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH7jDd6qTRliw/profile-displayphoto-shrink_200_200/0/1517554146615?e=1668038400&v=beta&t=isX8gQXtmIIODCWi9bleZsWxF3ijLqlxRSlskmEZF9Y" align="left" width="120px" height="120px" alt="GleisonGuardia-pic">
 
 **Pesquisador da Matemática, Professor de Curso Técnico e Superior & Diretor de Ensino do IFRO Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Julho de 2013</i> \
