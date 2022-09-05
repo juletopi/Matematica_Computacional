@@ -23,3 +23,16 @@ e a linguagem **R** como ferramentas de aprendizado.
    <img src="https://img.shields.io/badge/Made%20with%20IDE:-RStudio%20-gray.svg?colorA=7a97b2&amp;colorB=76aada&amp;style=for-the-badge" alt="RStudio-badge" style="max-width: 100%;">
    <img src="https://img.shields.io/badge/And%20made%20with%20language:-R%20-gray.svg?colorA=5986c7&amp;colorB=1F65CC&amp;style=for-the-badge" alt="RLanguage-badge" style="max-width: 100%;">
 </div>
+
+<div align="left">
+
+## Resumo:
+
+<img align="left" height="120px" width="120px" alt="GleisonGuardia-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQH7jDd6qTRliw/profile-displayphoto-shrink_200_200/0/1517554146615?e=1668038400&v=beta&t=isX8gQXtmIIODCWi9bleZsWxF3ijLqlxRSlskmEZF9Y">
+
+**Pesquisador na Área de Ensino da Matemática, Professor de Curso Técnico e Superior & Diretor de Ensino do IFRO Campus Ji-Paraná** \
+[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Julho de 2013</i> \
+Linguagens & Tecnologias: `RStudio` • `Linguagem R` \
+Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
+<br/>
+<br/>
