@@ -36,3 +36,9 @@ e a linguagem **R** como ferramentas de aprendizado.
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Julho de 2013</i> \
 Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `Python`\
 Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
+
+&nbsp;
+
+<div align="center">
+Feito com ❤️ por Juletopi
+</div>
