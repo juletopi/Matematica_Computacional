@@ -40,5 +40,5 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 &nbsp;
 
 <div align="center">
-Feito com ❤️ por Juletopi
+Feito com 💙 por Juletopi
 </div>
