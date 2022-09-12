@@ -50,7 +50,12 @@ e a linguagem **R** como ferramentas de aprendizado.
 Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `Python`\
 Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 
-&nbsp;
+###
+&#8196;
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/76459155/189612051-09dada62-debb-4ca5-afed-68487a54efdc.png" align="center" width="800" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/>
+</div> 
 
 <div align="center">
 Feito com 💙 por Juletopi
