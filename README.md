@@ -53,6 +53,12 @@ Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `
 Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 
 ###
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+###
 &#8196;
 
 <div align="center">
