@@ -59,7 +59,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 </div>
 
 ## 📚 Conceitos Aprendidos:
-
+- **1.** Comentários, Variáveis, Operadores e Funções **"print()"** e **"remove()"**
 ```r
 ?print() # <- Executa o argumento de um valor
 ?remove() # <- Remove um valor
@@ -73,7 +73,15 @@ print(par)
 remove(n) # <- Removido a variável "n"
 remove(par) # <- Removido a variável "par"
 ```
-  
+- **2.** Função **"abs()"**
+```r
+?abs() # <- Devolve o valor absoluto de um número inteiro.
+
+# Exemplo: |3| e |−3|
+abs(3)
+abs(-3) # <- A função sempre retornará um número positivo
+```
+
 ###
 &#8196;
 
