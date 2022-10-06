@@ -81,6 +81,28 @@ remove(par) # <- Removido a variável "par"
 abs(3)
 abs(-3) # <- A função sempre retornará um número positivo
 ```
+- **3.** Raízes multiplas, π(pi) e Função **"sqrt()"**
+```r
+?sqrt() # <- Determina uma raiz quadrada de um número.
+
+#Exemplo: A raíz de 9
+sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
+
+#Mas quando precisamos encontrar uma raiz que seja maior que
+#a quadrada, exemplo, cúbica, quarta e etc, podemos 
+#utilizar o seguinte recurso matemático:
+
+2**(1/3) # <- Raíz cúbica de 2
+2**(1/4) # <- Raíz quarta de 2
+50**(1/5) # <- Raíz quíntopla de 50
+1024**(1/10) # <- Raíz décima de 1024
+
+#Operações com o π(pi):
+?pi # <- O pi é uma constante que já vem dentro da linguagem R, não sendo necessário a sua declaração
+
+#Exemplo:
+2 + 3 * pi
+```
 
 ###
 &#8196;
