@@ -108,10 +108,23 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 ?Re() # <- Extrai a parte real de um número complexo
 ?Im() # <- Extrai a parte imaginária de um número complexo
 
-Exemplo: z = 2+3i
+#Exemplo: z = 2+3i
 z = 2 + 3i
 Re(z) # <- Retorna "2" como a parte real
 Im(z) # <- Retorna "3" como a parte imaginária
+```
+- **5.** Variáveis Matemáticas e Utilização de **"{}"**
+```r
+{} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
+
+#As equações podem ser feitas utilizando-se de variáveis
+#das quais, tem a finalidade de armazenar valor:
+
+{
+  x = 2
+  y = 2 * x        # <- Toda a equação será seclarada dentro das chaves, fazendo com que os
+  print(y)                   # valores de equações anteriores não se sobreponham
+}
 ```
 
 ###
