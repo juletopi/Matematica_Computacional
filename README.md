@@ -58,12 +58,28 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
+## 📚 Conceitos Aprendidos:
+
+```r
+?print() # <- Executa o argumento de um valor
+?remove() # <- Remove um valor
+
+#Exemplo: Algoritmo para descobrir número par
+#Todo número inteiro que é divisível por 2 é par, logo:
+n = 7
+par = 2*n
+print(par)
+
+remove(n) # <- Removido a variável "n"
+remove(par) # <- Removido a variável "par"
+```
+  
 ###
 &#8196;
 
 <div align="center">
 <a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ObrigadoPorVisitar(Azul)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189612051-09dada62-debb-4ca5-afed-68487a54efdc.png" align="center" width="500" height="60" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
-</div> 
+</div>
 
 <div align="center">
 Feito com 💙 por Juletopi
