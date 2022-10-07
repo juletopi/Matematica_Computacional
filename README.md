@@ -157,6 +157,11 @@ Im(z) # <- Retorna "3" como a parte imaginária
 </div>
 
 ### 5. Variáveis matemáticas e utilização de "{}"
+Aula 05 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Operações que trabalham com a utilização de variáveis usando vetores
+- Utilização de "{ }" para seleção de operações matemáticas específicas
 ```r
 {} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
 
