@@ -168,9 +168,13 @@ Nesta aula foram aprendidos:
 ?Im() # <- Extrai a parte imaginária de um número complexo
 
 #Exemplo: z = 2+3i
-z = 2 + 3i
+z1 = 2 + 3i
 Re(z) # <- Retorna "2" como a parte real
 Im(z) # <- Retorna "3" como a parte imaginária
+
+?cat() # <- Usada para mostrar os valores na tela.
+
+cat("z1=",z1)
 ```
 
 <div align="center">
