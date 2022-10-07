@@ -59,7 +59,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 </div>
 
 ## 📚 Conceitos Aprendidos:
-- **1.** Comentários, Variáveis, Operadores e Funções **"print()"** e **"remove()"**
+- **1. Comentários, variáveis, operadores e funções "print()" e "remove()"**
 ```r
 ?print() # <- Executa o argumento de um valor
 ?remove() # <- Remove um valor
@@ -78,7 +78,7 @@ remove(par) # <- Removido a variável "par"
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **2.** Função **"abs()"**
+- **2. Função "abs()"**
 ```r
 ?abs() # <- Devolve o valor absoluto de um número inteiro.
 
@@ -91,7 +91,7 @@ abs(-3) # <- A função sempre retornará um número positivo
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **3.** Raízes multiplas, π(pi) e Função **"sqrt()"**
+- **3. Raízes multiplas, π(pi) e função "sqrt()"**
 ```r
 ?sqrt() # <- Determina uma raiz quadrada de um número.
 
@@ -118,7 +118,7 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **4.** Números Complexos e Funções **"Re()"** e **"Im()"**
+- **4. Números complexos e funções "Re()" e "Im()"**
 ```r
 ?Re() # <- Extrai a parte real de um número complexo
 ?Im() # <- Extrai a parte imaginária de um número complexo
@@ -133,7 +133,7 @@ Im(z) # <- Retorna "3" como a parte imaginária
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **5.** Variáveis Matemáticas e Utilização de **"{}"**
+- **5. Variáveis matemáticas e utilização de "{}"**
 ```r
 {} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
 
