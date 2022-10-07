@@ -104,6 +104,12 @@ abs(-3) # <- A função sempre retornará um número positivo
 </div>
 
 ### 3. Raízes multiplas, π(pi) e função "sqrt()"
+Aula 03 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Operações que trabalham com raízes quadradas, usando o comando "sqrt()"
+- Conceitos de operação de pontências
+- Conceitos de operação utilizando o π (pi)
 ```r
 ?sqrt() # <- Determina uma raiz quadrada de um número.
 
@@ -145,7 +151,7 @@ Im(z) # <- Retorna "3" como a parte imaginária
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 5. Variáveis matemáticas e utilização de
+### 5. Variáveis matemáticas e utilização de "{}"
 ```r
 {} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
 
