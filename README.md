@@ -73,6 +73,11 @@ print(par)
 remove(n) # <- Removido a variável "n"
 remove(par) # <- Removido a variável "par"
 ```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
 - **2.** Função **"abs()"**
 ```r
 ?abs() # <- Devolve o valor absoluto de um número inteiro.
@@ -81,6 +86,11 @@ remove(par) # <- Removido a variável "par"
 abs(3)
 abs(-3) # <- A função sempre retornará um número positivo
 ```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
 - **3.** Raízes multiplas, π(pi) e Função **"sqrt()"**
 ```r
 ?sqrt() # <- Determina uma raiz quadrada de um número.
@@ -103,6 +113,11 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 #Exemplo:
 2 + 3 * pi
 ```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
 - **4.** Números Complexos e Funções **"Re()"** e **"Im()"**
 ```r
 ?Re() # <- Extrai a parte real de um número complexo
@@ -113,6 +128,11 @@ z = 2 + 3i
 Re(z) # <- Retorna "2" como a parte real
 Im(z) # <- Retorna "3" como a parte imaginária
 ```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
 - **5.** Variáveis Matemáticas e Utilização de **"{}"**
 ```r
 {} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
