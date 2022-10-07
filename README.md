@@ -103,7 +103,7 @@ abs(-3) # <- A função sempre retornará um número positivo
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **3. Raízes multiplas, π(pi) e função "sqrt()"**
+### 3. Raízes multiplas, π(pi) e função "sqrt()"
 ```r
 ?sqrt() # <- Determina uma raiz quadrada de um número.
 
@@ -130,7 +130,7 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **4. Números complexos e funções "Re()" e "Im()"**
+### 4. Números complexos e funções "Re()" e "Im()"
 ```r
 ?Re() # <- Extrai a parte real de um número complexo
 ?Im() # <- Extrai a parte imaginária de um número complexo
@@ -145,7 +145,7 @@ Im(z) # <- Retorna "3" como a parte imaginária
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **5. Variáveis matemáticas e utilização de "{}"**
+### 5. Variáveis matemáticas e utilização de
 ```r
 {} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
 
