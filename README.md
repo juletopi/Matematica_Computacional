@@ -66,6 +66,8 @@ Nesta aula foram aprendidos:
 - Conceitos Básicos para o uso do RStúdio
 - Utilização o RStúdio para conceitos matemáticos
 - Criação de algoritmos simples de definição de números Pares, Ímpares, Sucessores e Antecessores
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula01
 ```r
 ?print() # <- Executa o argumento de um valor
 ?remove() # <- Remove um valor
@@ -91,6 +93,8 @@ Nesta aula foram aprendidos:
 - Operações que trabalham com deslocamento, usando o comando "abs()"
 - Conceitos de divisão de números inteiros
 - Conceitos de resto da divisão
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula02
 ```r
 ?abs() # <- Devolve o valor absoluto de um número inteiro.
 
@@ -110,6 +114,8 @@ Nesta aula foram aprendidos:
 - Operações que trabalham com raízes quadradas, usando o comando "sqrt()"
 - Conceitos de operação de pontências
 - Conceitos de operação utilizando o π (pi)
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula03
 ```r
 ?sqrt() # <- Determina uma raiz quadrada de um número.
 
@@ -142,6 +148,8 @@ Aula 04 de Matemática Computacional ministrada pelo professor Gleison Guardia.
 Nesta aula foram aprendidos: 
 - Operações que trabalham com números complexos, usando os comandos "Re()" e "Im()"
 - Conceitos de operação de Adição, Subtração e Multiplicação com números complexos
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula04
 ```r
 ?Re() # <- Extrai a parte real de um número complexo
 ?Im() # <- Extrai a parte imaginária de um número complexo
@@ -162,6 +170,8 @@ Aula 05 de Matemática Computacional ministrada pelo professor Gleison Guardia.
 Nesta aula foram aprendidos: 
 - Operações que trabalham com a utilização de variáveis usando vetores
 - Utilização de "{ }" para seleção de operações matemáticas específicas
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula05
 ```r
 {} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
 
