@@ -59,7 +59,13 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 </div>
 
 ## 📚 Conceitos Aprendidos:
-- **1. Comentários, variáveis, operadores e funções "print()" e "remove()"**
+### 1. Comentários, variáveis, operadores e funções "print()" e "remove()"
+Aula 01 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Conceitos Básicos para o uso do RStúdio
+- Utilização o RStúdio para conceitos matemáticos
+- Criação de algoritmos simples de definição de números Pares, Ímpares, Sucessores e Antecessores
 ```r
 ?print() # <- Executa o argumento de um valor
 ?remove() # <- Remove um valor
