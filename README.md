@@ -84,7 +84,13 @@ remove(par) # <- Removido a variável "par"
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-- **2. Função "abs()"**
+### 2. Função "abs()"
+Aula 02 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Operações que trabalham com deslocamento, usando o comando "abs()"
+- Conceitos de divisão de números inteiros
+- Conceitos de resto da divisão
 ```r
 ?abs() # <- Devolve o valor absoluto de um número inteiro.
 
