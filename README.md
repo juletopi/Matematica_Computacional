@@ -101,6 +101,19 @@ Nesta aula foram aprendidos:
 # Exemplo: |3| e |−3|
 abs(3)
 abs(-3) # <- A função sempre retornará um número positivo
+
+#Tipos de divisão em R:
+
+5/5 # <- "Divisão Inteira"
+5/2 # <- "Divisão Exata"
+5/3 # <- "Divisão Infinita"
+
+#Na "Divisão Infinita", quando dividimos 5/3, não obtivemos
+#um valor exato e inteiro, quando queremos só a parte
+#inteira dessa divisão, fazemos "%/%":
+5%/%3
+8%/%3  
+11%/%3
 ```
 
 <div align="center">
