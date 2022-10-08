@@ -197,8 +197,8 @@ Nesta aula foram aprendidos:
 
 {
   x = 2
-  y = 2 * x        # <- Toda a equação será seclarada dentro das chaves, fazendo com que os
-  print(y)                   # valores de equações anteriores não se sobreponham
+  y = 2 * x        # <- Toda a equação está sendo declarada dentro das chaves, fazendo com que os
+  print(y)                     # valores de equações anteriores não se sobreponham
 }
 ```
 
