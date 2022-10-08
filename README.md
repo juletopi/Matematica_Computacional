@@ -202,6 +202,54 @@ Nesta aula foram aprendidos:
 }
 ```
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 6.
+Aula 06 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Operações que trabalham com fórmula de bhaskara, usando o comando "cat()"
+- Utilização da lógica de programação "If e Else" para a criação de algoritmos matemáticos
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_06
+```r
+
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 7.
+Aula 07 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline()"
+- Criação de algoritmos com entrada e saída de valores de cálculo fornecidos pelo usuário
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_07
+```r
+
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 8.
+Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+
+Nesta aula foram aprendidos: 
+- Entendimento sobre conceitos matemáticos financeiros
+- Criação de um algoritmo complexo com conceitos matemáticos financeiros de juros e porcentagem
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_08
+```r
+
+```
+
 ###
 &#8196;
 
