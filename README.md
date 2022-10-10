@@ -63,7 +63,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 Aula 01 de Matemática Computacional ministrada pelo professor Gleison Guardia.
 
 Nesta aula foram aprendidos: 
-- Conceitos Básicos para o uso do RStúdio
+- Conceitos básicos para o uso do RStúdio
 - Utilização o RStúdio para conceitos matemáticos
 - Criação de algoritmos simples de definição de números Pares, Ímpares, Sucessores e Antecessores
 
