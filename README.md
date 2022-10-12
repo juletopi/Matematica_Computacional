@@ -98,7 +98,7 @@ Nesta aula foram aprendidos:
 ```r
 ?abs() # <- Devolve o valor absoluto de um número inteiro.
 
-# Exemplo: |3| e |−3|
+#Exemplo: |3| e |−3|
 abs(3)
 abs(-3) # <- A função sempre retornará um número positivo
 
@@ -238,7 +238,7 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 8.
+### 8. Algoritmo Financeiro
 *Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
@@ -247,7 +247,21 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_08
 ```r
+#Reajustes Sucessivos (Algoritmo):
+{
+  valor <- as.numeric(readline("Digite o valor do produto: "))
+  parcelas <- as.numeric(readline("Digite a quantidade de parcelas: "))
+  reajuste <- 1
+  for (i in 1:parcelas) {
+    taxa = as.numeric(readline(sprintf("Digite a %sª parcela: ", i)))
+    reajuste = reajuste * (1+ taxa/100)
+  }
+  novo_valor = valor * reajuste
+  sprintf("O novo valor do produto é R$%s!", novo_valor)
+}
 
+#O algoritmo acima ↑ faz com que sejam pedidos o valor, a quantidade de parcelas
+#e o nº da parcela de um produto, resultando no valor final do produto.
 ```
 
 ###
