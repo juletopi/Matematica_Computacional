@@ -215,7 +215,30 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_06
 ```r
-
+# a. x^2 − 7x + 10 = 0
+{
+  a = 1
+  b = -7
+  c = 10
+  cat("a = ", a, "\n")
+  cat("b = ", b, "\n")
+  cat("c = ", c, "\n")
+  
+  delta = b ** 2 - 4 * a * c
+  print(delta)
+  
+  x_1 = (-b - (delta)**(1/2))/(2*a)
+  print(x_1)
+  x_2 = (-b + (delta)**(1/2))/(2*a)
+  print(x_2)
+  cat("x_1 = ", x_1, "x_2 = ", x_2)
+  
+  if(delta < 0){
+    print("O seu número é Complexo!")
+  }else{
+    print("O seu número é Real!")
+  }
+}
 ```
 
 <div align="center">
