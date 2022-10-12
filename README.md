@@ -206,7 +206,7 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 6.
+### 6. Fórmula de bhaskara e função "If/Else"
 *Aula 06 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
@@ -222,7 +222,7 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 7.
+### 7. Áreas, volumes e função "readline( )"
 *Aula 07 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
@@ -231,7 +231,23 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_07
 ```r
+#Ao trabalharmos com áreas e volumes de uma forma, normalmente há aquele que irá definir
+#as suas dimensões de acordo com a fórmula. Para isso, utilizamos os comandos:
 
+?readline() # <- Retorna uma string para acomodar toda a linha.
+?sprintf() # <- Formata uma string e guarda o resultado em um array.
+
+#Exemplo: Área do Losango
+{
+  print("Digite o valor de D → diagonalmaior:")
+  D = as.numeric(readline())
+  D
+  print("Digite o valor de d → diagonalmenor:")
+  d = as.numeric(readline())
+  d
+  A = D * d / 2
+  sprintf("A área da figura é %s!", A )
+}
 ```
 
 <div align="center">
