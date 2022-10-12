@@ -181,7 +181,7 @@ cat("z1=",z1)
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 5. Variáveis matemáticas e utilização de "{}"
+### 5. Variáveis matemáticas e utilização de "{ }"
 *Aula 05 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
