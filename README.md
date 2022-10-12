@@ -215,7 +215,8 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_06
 ```r
-# a. x^2 − 7x + 10 = 0
+#Equações de segundo grau podem ser feitas utilizando o software r.
+#Por exemplo: x^2 − 7x + 10 = 0
 {
   a = 1
   b = -7
@@ -224,6 +225,7 @@ Nesta aula foram aprendidos:
   cat("b = ", b, "\n")
   cat("c = ", c, "\n")
   
+  #Agora vamos encontrar o valor de Δ:
   delta = b ** 2 - 4 * a * c
   print(delta)
   
@@ -233,6 +235,7 @@ Nesta aula foram aprendidos:
   print(x_2)
   cat("x_1 = ", x_1, "x_2 = ", x_2)
   
+  #Introduzindo o conceito de "if e else":
   if(delta < 0){
     print("O seu número é Complexo!")
   }else{
