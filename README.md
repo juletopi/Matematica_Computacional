@@ -59,7 +59,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 </div>
 
 ## 📚 Conceitos Aprendidos:
-### 1. Comentários, variáveis, operadores e funções "print()" e "remove()"
+### 1. Comentários, variáveis, operadores e funções "print( )" e "remove( )"
 *Aula 01 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
@@ -69,8 +69,8 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula01
 ```r
-?print() # <- Executa o argumento de um valor
-?remove() # <- Remove um valor
+?print( ) # <- Executa o argumento de um valor
+?remove( ) # <- Remove um valor
 
 #Exemplo: Algoritmo para descobrir número par
 #Todo número inteiro que é divisível por 2 é par, logo:
@@ -86,11 +86,11 @@ remove(par) # <- Removido a variável "par"
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 2. Função "abs()"
+### 2. Função "abs( )"
 *Aula 02 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com deslocamento, usando o comando "abs()"
+- Operações que trabalham com deslocamento, usando o comando "abs( )"
 - Conceitos de divisão de números inteiros
 - Conceitos de resto da divisão
 
@@ -120,17 +120,17 @@ abs(-3) # <- A função sempre retornará um número positivo
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 3. Raízes multiplas, π(pi) e função "sqrt()"
+### 3. Raízes multiplas, π(pi) e função "sqrt( )"
 *Aula 03 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com raízes quadradas, usando o comando "sqrt()"
+- Operações que trabalham com raízes quadradas, usando o comando "sqrt( )"
 - Conceitos de operação de pontências
 - Conceitos de operação utilizando o π (pi)
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula03
 ```r
-?sqrt() # <- Determina uma raiz quadrada de um número.
+?sqrt( ) # <- Determina uma raiz quadrada de um número.
 
 #Exemplo: A raíz de 9
 sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
@@ -155,24 +155,24 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 4. Números complexos e funções "Re()" e "Im()"
+### 4. Números complexos e funções "Re( )" e "Im( )"
 *Aula 04 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com números complexos, usando os comandos "Re()" e "Im()"
+- Operações que trabalham com números complexos, usando os comandos "Re( )" e "Im( )"
 - Conceitos de operação de Adição, Subtração e Multiplicação com números complexos
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula04
 ```r
-?Re() # <- Extrai a parte real de um número complexo
-?Im() # <- Extrai a parte imaginária de um número complexo
+?Re( ) # <- Extrai a parte real de um número complexo
+?Im( ) # <- Extrai a parte imaginária de um número complexo
 
 #Exemplo: z = 2+3i
 z1 = 2 + 3i
 Re(z) # <- Retorna "2" como a parte real
 Im(z) # <- Retorna "3" como a parte imaginária
 
-?cat() # <- Usada para mostrar os valores na tela.
+?cat( ) # <- Usada para mostrar os valores na tela.
 
 cat("z1=",z1)
 ```
@@ -190,7 +190,7 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula05
 ```r
-{} # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
+{ } # <- As chaves são comumente usadas na lógica de programação para delimitar uma instrução
 
 #As equações podem ser feitas utilizando-se de variáveis
 #das quais, tem a finalidade de armazenar valor:
@@ -210,7 +210,7 @@ Nesta aula foram aprendidos:
 *Aula 06 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com fórmula de bhaskara, usando o comando "cat()"
+- Operações que trabalham com fórmula de bhaskara, usando o comando "cat( )"
 - Utilização da lógica de programação "If e Else" para a criação de algoritmos matemáticos
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_06
@@ -226,7 +226,7 @@ Nesta aula foram aprendidos:
 *Aula 07 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline()"
+- Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline( )"
 - Criação de algoritmos com entrada e saída de valores de cálculo fornecidos pelo usuário
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_07
