@@ -60,7 +60,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, variáveis, operadores e funções "print()" e "remove()"
-Aula 01 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 01 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Conceitos básicos para o uso do RStúdio
@@ -87,7 +87,7 @@ remove(par) # <- Removido a variável "par"
 </div>
 
 ### 2. Função "abs()"
-Aula 02 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 02 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com deslocamento, usando o comando "abs()"
@@ -121,7 +121,7 @@ abs(-3) # <- A função sempre retornará um número positivo
 </div>
 
 ### 3. Raízes multiplas, π(pi) e função "sqrt()"
-Aula 03 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 03 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com raízes quadradas, usando o comando "sqrt()"
@@ -156,7 +156,7 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 </div>
 
 ### 4. Números complexos e funções "Re()" e "Im()"
-Aula 04 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 04 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com números complexos, usando os comandos "Re()" e "Im()"
@@ -182,7 +182,7 @@ cat("z1=",z1)
 </div>
 
 ### 5. Variáveis matemáticas e utilização de "{}"
-Aula 05 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 05 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com a utilização de variáveis usando vetores
@@ -207,7 +207,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 6.
-Aula 06 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 06 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com fórmula de bhaskara, usando o comando "cat()"
@@ -223,7 +223,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 7.
-Aula 07 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 07 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline()"
@@ -239,7 +239,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8.
-Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.
+*Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Entendimento sobre conceitos matemáticos financeiros
