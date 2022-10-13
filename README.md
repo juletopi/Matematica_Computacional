@@ -280,7 +280,7 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 8. Algoritmo Financeiro
+### 8. Algoritmo Financeiro (Juros e Porcentagem)
 *Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
@@ -304,6 +304,37 @@ Nesta aula foram aprendidos:
 
 #O algoritmo acima ↑ faz com que sejam pedidos o valor, a quantidade de parcelas
 #e o nº da parcela de um produto, resultando no valor final do produto.
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 8.2 Algoritmo Financeiro (Juros Simples e Compostos)
+*Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+
+Nesta aula foram aprendidos:
+- Criação de um algoritmo complexo com conceitos matemáticos financeiros de juros simples e compostos
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_08
+```r
+#Juros Simples e Compostos (Algoritmo):
+{
+  c = as.numeric(readline("Digite o valor da capital: ")) 
+  i = as.numeric(readline("Digite o valor da taxa de furos: "))
+  t = as.numeric(readline("Digite o tempo da aplicação: "))
+  sn = as.numeric(readline("Escolha entre os juros, (1)simples ou (2)composto: "))
+  if(sn == 1){
+    m = c * (1 + (i/100) * t)
+    sprintf("Seu montante será de R$%s!", m)
+  }else{
+    m = c * (1 + (i/100)) ^(t)
+    sprintf("Seu montante será de R$%s!", m) 
+  }
+}
+
+#O algoritmo acima ↑ faz com que sejam pedidos o valor da capital, taxa de furos,
+#o tempo da aplicação e a escolha entre os juros simples ou composto.
 ```
 
 ###
