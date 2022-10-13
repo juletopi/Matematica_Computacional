@@ -310,7 +310,7 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 8.2 Algoritmo Financeiro (Juros Simples e Compostos)
+### 8.2. Algoritmo Financeiro (Juros Simples e Compostos)
 *Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos:
@@ -321,7 +321,7 @@ Nesta aula foram aprendidos:
 #Juros Simples e Compostos (Algoritmo):
 {
   c = as.numeric(readline("Digite o valor da capital: ")) 
-  i = as.numeric(readline("Digite o valor da taxa de furos: "))
+  i = as.numeric(readline("Digite o valor da taxa de juros: "))
   t = as.numeric(readline("Digite o tempo da aplicação: "))
   sn = as.numeric(readline("Escolha entre os juros, (1)simples ou (2)composto: "))
   if(sn == 1){
@@ -333,8 +333,45 @@ Nesta aula foram aprendidos:
   }
 }
 
-#O algoritmo acima ↑ faz com que sejam pedidos o valor da capital, taxa de furos,
+#O algoritmo acima ↑ faz com que sejam pedidos o valor da capital, taxa de juros,
 #o tempo da aplicação e a escolha entre os juros simples ou composto.
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 8.3. Algoritmo Financeiro (Parcelas e Dívidas)
+*Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+
+Nesta aula foram aprendidos:
+- Criação de dois algoritmos complexos com conceitos matemáticos financeiros de valores de parcelas e dívidas
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_08
+```r
+#Valor Atual de uma Parcela (Vap) (Algoritmo 1):
+{
+  vn = as.numeric(readline("Digite o valor do bem: "))
+  i = as.numeric(readline("Digite a taxa de juros: "))
+  n = as.numeric(readline("Digite o número de parcelas: "))
+  vap = (vn/ (1 + i/100) ^n)
+  sprintf("O valor atual total de uma parcela será: R$%s!", vap) 
+}
+
+#Valor Atual total de uma dívida (Vat) (Algoritmo 2):
+{
+  r = as.numeric(readline("Digite o valor do bem: "))
+  i = as.numeric(readline("Digite a taxa de juros: "))
+  n = as.numeric(readline("Digite o número de parcelas: "))
+  
+  numerador = (1 + i/100) ^n - 1
+  denominador = i/100 * (1 + i/100) ^n
+  vat = r * (numerador/denominador)
+  sprintf("O valor atual total de uma dívida será: R$%s!", vat) 
+}
+
+#Os algoritmos acima ↑ fazem com que sejam pedidos o valor do bem, 
+#taxa de juros e o nº da parcela de um produto.
 ```
 
 ###
