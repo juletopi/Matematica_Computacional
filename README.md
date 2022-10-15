@@ -45,6 +45,7 @@ e a linguagem **R** como ferramentas de aprendizado.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=A%20Matemática:%20o%20incontornável%20fundamento%20de%20todas%20as%20ciências%20e%20a%20generosa%20fonte%20de%20benefícios%20para%20os%20assuntos%20humanos&author=Issac%20Barrow)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
+
 <div align="left">
 
 ## 👨‍🏫 Professor:
