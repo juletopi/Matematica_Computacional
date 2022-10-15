@@ -1,5 +1,6 @@
 <!--
 ❗ ➤ References used in this Repository:
+🔗 • https://github.com/piyushsuthar/github-readme-quotes
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
 🔗 • https://profilepicturemaker.com
@@ -39,8 +40,11 @@ e a linguagem **R** como ferramentas de aprendizado.
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
-</div>
 
+###
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=A%20Matemática:%20o%20incontornável%20fundamento%20de%20todas%20as%20ciências%20e%20a%20generosa%20fonte%20de%20benefícios%20para%20os%20assuntos%20humanos&author=Issac%20Barrow)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 <div align="left">
 
 ## 👨‍🏫 Professor:
