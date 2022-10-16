@@ -65,7 +65,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, variáveis, operadores e funções "print( )" e "remove( )"
-*Aula 01 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 01](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_01.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Conceitos básicos para o uso do RStúdio
@@ -92,7 +92,7 @@ remove(par) # <- Removido a variável "par"
 </div>
 
 ### 2. Função "abs( )"
-*Aula 02 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 02](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_02.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com deslocamento, usando o comando "abs( )"
@@ -126,7 +126,7 @@ abs(-3) # <- A função sempre retornará um número positivo
 </div>
 
 ### 3. Raízes multiplas, π(pi) e função "sqrt( )"
-*Aula 03 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 03](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_03.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com raízes quadradas, usando o comando "sqrt( )"
@@ -161,7 +161,7 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 </div>
 
 ### 4. Números complexos e funções "Re( )" e "Im( )"
-*Aula 04 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 04](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_04.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com números complexos, usando os comandos "Re( )" e "Im( )"
@@ -187,7 +187,7 @@ cat("z1=",z1)
 </div>
 
 ### 5. Variáveis matemáticas e utilização de "{ }"
-*Aula 05 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 05](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_05.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com a utilização de variáveis usando vetores
@@ -212,7 +212,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 6. Fórmula de bhaskara e função "If/Else"
-*Aula 06 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 06](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_06.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com fórmula de bhaskara, usando o comando "cat( )"
@@ -254,7 +254,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 7. Áreas, volumes e função "readline( )"
-*Aula 07 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 07](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_07.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline( )"
@@ -286,7 +286,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8. Algoritmo Financeiro (Juros e Porcentagem)
-*Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 08](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos: 
 - Entendimento sobre conceitos matemáticos financeiros
@@ -316,7 +316,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8.2. Algoritmo Financeiro (Juros Simples e Compostos)
-*Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 08.2](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08-2.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos:
 - Criação de um algoritmo complexo com conceitos matemáticos financeiros de juros simples e compostos
@@ -347,7 +347,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8.3. Algoritmo Financeiro (Parcelas e Dívidas)
-*Aula 08 de Matemática Computacional ministrada pelo professor Gleison Guardia.*
+*Retirado da [aula 08.3](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08-3.R) de Matemática Computacional ministrada pelo professor Gleison Guardia.*
 
 Nesta aula foram aprendidos:
 - Criação de dois algoritmos complexos com conceitos matemáticos financeiros de valores de parcelas e dívidas
