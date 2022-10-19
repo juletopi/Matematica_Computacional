@@ -101,7 +101,7 @@ Nesta aula foram aprendidos:
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula02
 ```r
-?abs() # <- Devolve o valor absoluto de um número inteiro.
+?abs( ) # <- Devolve o valor absoluto de um número inteiro.
 
 #Exemplo: |3| e |−3|
 abs(3)
@@ -265,8 +265,8 @@ Nesta aula foram aprendidos:
 #Ao trabalharmos com áreas e volumes de uma forma, normalmente há aquele que irá definir
 #as suas dimensões de acordo com a fórmula. Para isso, utilizamos os comandos:
 
-?readline() # <- Retorna uma string para acomodar toda a linha.
-?sprintf() # <- Formata uma string e guarda o resultado em um array.
+?readline( ) # <- Retorna uma string para acomodar toda a linha.
+?sprintf( ) # <- Formata uma string e guarda o resultado em um array.
 
 #Exemplo: Área do Losango
 {
