@@ -383,7 +383,7 @@ Nesta aula foram aprendidos:
 &#8196;
 
 <div align="center">
-<a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ObrigadoPorVisitar(Azul)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189612051-09dada62-debb-4ca5-afed-68487a54efdc.png" align="center" width="500" height="60" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
+<a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ObrigadoPorVisitar(Azul)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189612051-09dada62-debb-4ca5-afed-68487a54efdc.png" align="center" width="505" height="65" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
 </div>
 
 <div align="center">
