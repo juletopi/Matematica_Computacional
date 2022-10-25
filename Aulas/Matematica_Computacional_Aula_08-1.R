@@ -2,7 +2,7 @@
 #linguagens em R, durante as aulas de "Matemática Computacional" do professor
 #"Gleison Guardia" com o RStúdio para analisar e modelar a linguagem em R.
 
-#AULA 08: "MATEMÁTICA FINANCEIRA"
+#AULA 08.1: "MATEMÁTICA FINANCEIRA"
 
 # -> Demais exemplos presentes no RPubs:
 # https://rpubs.com/Gleison_Guardia/mc_08
@@ -85,7 +85,7 @@
 }
 # --------------------------------------------- #
 
-#ATIVIDADE DA AULA 08:
+#ATIVIDADE DA AULA 08.1:
 
 #Com o algorítmo, refaça os exemplos de 01 a 05 do RPubs da aula 8,
 #e verifique se o resultado é semelhante ao apresentado em sala.
