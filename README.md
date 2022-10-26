@@ -363,7 +363,7 @@ Nesta aula foram aprendidos:
   sprintf("O valor atual total de uma parcela será: R$%s!", vap) 
 }
 
-#Valor Atual total de uma dívida (Vat) (Algoritmo 2):
+#Valor Atual total de uma Dívida (Vat) (Algoritmo 2):
 {
   r = as.numeric(readline("Digite o valor do bem: "))
   i = as.numeric(readline("Digite a taxa de juros: "))
