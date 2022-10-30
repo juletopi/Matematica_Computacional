@@ -14,7 +14,7 @@
 <img src="https://github-visitors-badge.glitch.me/badge?page_id=Matematica_Computacional.github-visitors-badge" alt="PageVisitors-badge">
 </div>
 
-###
+<br>
 
 <div align="center">
 <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.emoji.gg/emojis/7244_ConfusedMathLady.gif" alt="ConfusedMathLady-gif" width="100px"height="95px" ></a>
@@ -23,25 +23,22 @@
 
 <div align="center">
 
-###
-
 • Este é um repositório com o conteúdo das aulas de Matemática Computacional, \
 ministradas pelo professor [**Gleison Guardia**](https://www.linkedin.com/in/gleison-guardia-8aa02994/), utilizando o **RStudio** \
 e a linguagem **R** como ferramentas de aprendizado.
 </div>
 
-###
-
 <div align="center">
 <a href="https://www.rstudio.com/about/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-RStudio%20-gray.svg?colorA=7a97b2&amp;colorB=76aada&amp;style=for-the-badge" alt="RStudioIDE-badge" style="max-width: 100%;"></a>
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/Made%20with%20language:-R%20-gray.svg?colorA=5986c7&amp;colorB=1F65CC&amp;style=for-the-badge" alt="RLanguage-badge" style="max-width: 100%;"></a>
 </div>
-&#8196;
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 
-###
+<br>
+<br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=A%20Matemática:%20o%20incontornável%20fundamento%20de%20todas%20as%20ciências%20e%20a%20generosa%20fonte%20de%20benefícios%20para%20os%20assuntos%20humanos.&author=Issac%20Barrow)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
@@ -50,14 +47,14 @@ e a linguagem **R** como ferramentas de aprendizado.
 
 ## 👨‍🏫 Professor:
 
-  <a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/GleisonGuardia-pic.png"><img src="https://user-images.githubusercontent.com/76459155/194717653-91217446-148d-4459-bad3-95b60d71743b.png" align="left" width="135px" height="135px" alt="GleisonGuardia-pic"></a>
+<a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/GleisonGuardia-pic.png"><img src="https://user-images.githubusercontent.com/76459155/194717653-91217446-148d-4459-bad3-95b60d71743b.png" align="left" width="135px" height="135px" alt="GleisonGuardia-pic"></a>
 
-**Gleison Guardia - Pesquisador da Matemática, Professor de Curso Técnico e Superior & Diretor de Ensino do IFRO Campus Ji-Paraná** \
-[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Julho de 2013</i> \
+**Gleison Guardia - Pesquisador da Matemática | Professor de Curso Técnico e Superior | Diretor de Ensino** \
+[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Atuando desde Julho de 2013</i> \
 Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `Python`\
 Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 
-###
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -379,8 +376,8 @@ Nesta aula foram aprendidos:
 #taxa de juros e o nº da parcela de um produto.
 ```
 
-###
-&#8196;
+<br>
+<br>
 
 <div align="center">
 <a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ObrigadoPorVisitar(Azul)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189612051-09dada62-debb-4ca5-afed-68487a54efdc.png" align="center" width="505" height="65" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
