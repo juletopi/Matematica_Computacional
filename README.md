@@ -61,7 +61,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 </div>
 
 ## 📚 Conceitos Aprendidos:
-### 1. Comentários, variáveis, operadores e funções "print( )" e "remove( )"
+### 1. Comentários, variáveis, operadores e funções "print(&#8196;&#8196;)" e "remove(&#8196;&#8196;)"
 *Retirado da [aula 01](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_01.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
@@ -74,7 +74,8 @@ Nesta aula foram aprendidos:
 ?print( ) # <- Executa o argumento de um valor
 ?remove( ) # <- Remove um valor
 
-#Exemplo: Algoritmo para descobrir número par
+#Exemplo: Algoritmo para descobrir número par ↴
+
 #Todo número inteiro que é divisível por 2 é par, logo:
 n = 7
 par = 2*n
@@ -88,11 +89,11 @@ remove(par) # <- Removido a variável "par"
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 2. Função "abs( )"
+### 2. Função "abs(&#8196;&#8196;)"
 *Retirado da [aula 02](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_02.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com deslocamento, usando o comando "abs( )"
+- Operações que trabalham com deslocamento, usando o comando "abs(&#8196;&#8196;)"
 - Conceitos de divisão de números inteiros
 - Conceitos de resto da divisão
 
@@ -100,12 +101,11 @@ Nesta aula foram aprendidos:
 ```r
 ?abs( ) # <- Devolve o valor absoluto de um número inteiro.
 
-#Exemplo: |3| e |−3|
+#Exemplo: |3| e |−3| ↴
 abs(3)
 abs(-3) # <- A função sempre retornará um número positivo
 
 #Tipos de divisão em R:
-
 5/5 # <- "Divisão Inteira"
 5/2 # <- "Divisão Exata"
 5/3 # <- "Divisão Infinita"
@@ -122,19 +122,19 @@ abs(-3) # <- A função sempre retornará um número positivo
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 3. Raízes multiplas, π(pi) e função "sqrt( )"
+### 3. Raízes multiplas, π(pi) e função "sqrt(&#8196;&#8196;)"
 *Retirado da [aula 03](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_03.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com raízes quadradas, usando o comando "sqrt( )"
+- Operações que trabalham com raízes quadradas, usando o comando "sqrt(&#8196;&#8196;)"
 - Conceitos de operação de pontências
-- Conceitos de operação utilizando o π (pi)
+- Conceitos de operação utilizando o π(pi)
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula03
 ```r
 ?sqrt( ) # <- Determina uma raiz quadrada de um número.
 
-#Exemplo: A raíz de 9
+#Exemplo: A raíz de 9 ↴
 sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 
 #Mas quando precisamos encontrar uma raiz que seja maior que
@@ -147,9 +147,8 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 1024**(1/10) # <- Raíz décima de 1024
 
 #Operações com o π(pi):
-?pi # <- O pi é uma constante que já vem dentro da linguagem R, não sendo necessário a sua declaração
-
-#Exemplo:
+?pi # <- O pi é uma constante que já vem dentro da linguagem R, 
+              # não sendo necessário a sua declaração
 2 + 3 * pi
 ```
 
@@ -157,11 +156,11 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 4. Números complexos e funções "Re( )" e "Im( )"
+### 4. Números complexos e funções "Re(&#8196;&#8196;)" e "Im(&#8196;&#8196;)"
 *Retirado da [aula 04](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_04.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com números complexos, usando os comandos "Re( )" e "Im( )"
+- Operações que trabalham com números complexos, usando os comandos "Re(&#8196;&#8196;)" e "Im(&#8196;&#8196;)"
 - Conceitos de operação de Adição, Subtração e Multiplicação com números complexos
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula04
@@ -169,7 +168,7 @@ Nesta aula foram aprendidos:
 ?Re( ) # <- Extrai a parte real de um número complexo
 ?Im( ) # <- Extrai a parte imaginária de um número complexo
 
-#Exemplo: z = 2+3i
+#Exemplo: z = 2+3i ↴
 z1 = 2 + 3i
 Re(z) # <- Retorna "2" como a parte real
 Im(z) # <- Retorna "3" como a parte imaginária
@@ -183,12 +182,12 @@ cat("z1=",z1)
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 5. Variáveis matemáticas e utilização de "{ }"
+### 5. Variáveis matemáticas e utilização de "{&#8196;&#8196;}"
 *Retirado da [aula 05](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_05.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
 - Operações que trabalham com a utilização de variáveis usando vetores
-- Utilização de "{ }" para seleção de operações matemáticas específicas
+- Utilização de "{&#8196;&#8196;}" para seleção de operações matemáticas específicas
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula05
 ```r
@@ -196,11 +195,10 @@ Nesta aula foram aprendidos:
 
 #As equações podem ser feitas utilizando-se de variáveis
 #das quais, tem a finalidade de armazenar valor:
-
 {
   x = 2
-  y = 2 * x        # <- Toda a equação está sendo declarada dentro das chaves, fazendo com que os
-  print(y)                     # valores de equações anteriores não se sobreponham
+  y = 2 * x     # <- Toda a equação está sendo declarada dentro das chaves, fazendo com que os
+  print(y)                  # valores de equações anteriores não se sobreponham
 }
 ```
 
@@ -212,13 +210,13 @@ Nesta aula foram aprendidos:
 *Retirado da [aula 06](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_06.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com fórmula de bhaskara, usando o comando "cat( )"
+- Operações que trabalham com fórmula de bhaskara, usando o comando "cat(&#8196;&#8196;)"
 - Utilização da lógica de programação "If e Else" para a criação de algoritmos matemáticos
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_06
 ```r
 #Equações de segundo grau podem ser feitas utilizando o software r.
-#Por exemplo: x^2 − 7x + 10 = 0
+#Por exemplo: x^2 − 7x + 10 = 0 ↴
 {
   a = 1
   b = -7
@@ -250,11 +248,11 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 7. Áreas, volumes e função "readline( )"
+### 7. Áreas, volumes e função "readline(&#8196;&#8196;)"
 *Retirado da [aula 07](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_07.R) de Matemática Computacional ministrada pelo professor Gleison Guardia*
 
 Nesta aula foram aprendidos: 
-- Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline( )"
+- Operações que trabalham com a área e volume de formas geométricas, usando o comando "readline(&#8196;&#8196;)"
 - Criação de algoritmos com entrada e saída de valores de cálculo fornecidos pelo usuário
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_07
@@ -265,7 +263,7 @@ Nesta aula foram aprendidos:
 ?readline( ) # <- Retorna uma string para acomodar toda a linha.
 ?sprintf( ) # <- Formata uma string e guarda o resultado em um array.
 
-#Exemplo: Área do Losango
+#Exemplo: Área do Losango ↴
 {
   print("Digite o valor de D → diagonalmaior:")
   D = as.numeric(readline())
@@ -359,7 +357,6 @@ Nesta aula foram aprendidos:
   vap = (vn/ (1 + i/100) ^n)
   sprintf("O valor atual total de uma parcela será: R$%s!", vap) 
 }
-
 #Valor Atual total de uma Dívida (Vat) (Algoritmo 2):
 {
   r = as.numeric(readline("Digite o valor do bem: "))
