@@ -280,8 +280,8 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 8. Algoritmo Financeiro (Juros e Porcentagem)
-> *Retirado da [aula 08](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08.R) de Matemática Computacional*
+### 8.1. Algoritmo Financeiro (Juros e Porcentagem)
+> *Retirado da [aula 08.1](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08-1.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
 - Entendimento sobre conceitos matemáticos financeiros
