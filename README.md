@@ -373,6 +373,39 @@ Nesta aula foram aprendidos:
 #taxa de juros e o nº da parcela de um produto.
 ```
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 9. Teoria dos Conjuntos e Banco de Dados
+> *Retirado da [aula 09](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_09.R) de Matemática Computacional*
+
+Nesta aula foram aprendidos: 
+- Conceitos principais da "Teoria dos Conjuntos"
+- Raciocínio de funções de análises estatísticas para manipulação de banco de dados
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_09
+```r
+#A Teoria dos Conjuntos é conceito muito importante para a construção do
+#raciocínio de funções e principalmente análises estatísticas.
+#Suas leis são a base de funcionamento dos Banco de Dados, e
+#nenhum sistema funciona sem trabalhar com este conceito.
+
+#Exemplo: Manuseando um conjunto de variáveis ↴
+A <- c(0,1,2,3)
+B <- 0:3
+C <- 1:5
+A == B
+
+A[A>3] # <- Nenhum valor presente no vetor A satisfaz a condição estabelecida.
+             # Assim dizemos que a resposta a essa solicitação será vazia.
+
+A[A == 3] # <- Neste caso, a solicitação é classificada como unitária, 
+                  # ou seja, possui apenas um valor como retorno.
+
+A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
+# possíveis, com nossa resposta sendo igual o nosso conjunto universo de estudo.
+```
 <br>
 
 ----
