@@ -19,9 +19,8 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.emoji.gg/emojis/7244_ConfusedMathLady.gif" alt="ConfusedMathLady-gif" width="100px"height="95px" ></a>
+<a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://user-images.githubusercontent.com/76459155/199731138-9e89b6a6-b200-4a4d-8826-06efc7ddf2c6.png" alt="ComputerMath-pic" width="114px"></a>
 <h2 align="center">Matemática Computacional ➗</h2>
-</div>
 
 <div align="center">
 
