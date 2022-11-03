@@ -16,6 +16,8 @@
 
 <br>
 
+<!-- PRESENTATION -->
+
 <div align="center">
 <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://cdn3.emoji.gg/emojis/7244_ConfusedMathLady.gif" alt="ConfusedMathLady-gif" width="100px"height="95px" ></a>
 <h2 align="center">Matemática Computacional ➗</h2>
@@ -29,8 +31,8 @@ e a linguagem **R** como ferramentas de aprendizado.
 </div>
 
 <div align="center">
-<a href="https://www.rstudio.com/about/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-RStudio%20-gray.svg?colorA=7a97b2&amp;colorB=76aada&amp;style=for-the-badge" alt="RStudioIDE-badge" style="max-width: 100%;"></a>
-<a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/Made%20with%20language:-R%20-gray.svg?colorA=5986c7&amp;colorB=1F65CC&amp;style=for-the-badge" alt="RLanguage-badge" style="max-width: 100%;"></a>
+<a href="https://www.datacamp.com/tutorial/r-studio-tutorial"><img src="https://img.shields.io/badge/Made%20with%20IDE:-RStudio%20-gray.svg?colorA=7a97b2&amp;colorB=76aada&amp;style=for-the-badge" alt="RStudioIDE-badge" style="max-width: 100%;"></a>
+<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/"><img src="https://img.shields.io/badge/Made%20with%20language:-R%20-gray.svg?colorA=5986c7&amp;colorB=1F65CC&amp;style=for-the-badge" alt="RLanguage-badge" style="max-width: 100%;"></a>
 </div>
 <br>
 
@@ -44,6 +46,8 @@ e a linguagem **R** como ferramentas de aprendizado.
 </div>
 
 <div align="left">
+
+<!-- ABOUT TEACHER -->
 
 ## 👨‍🏫 Professor:
 
@@ -59,6 +63,8 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
+
+<!-- LEARNED CONCEPTS -->
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, variáveis, operadores e funções "print(&#8196;&#8196;)" e "remove(&#8196;&#8196;)"
@@ -407,6 +413,8 @@ A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
 # possíveis, com nossa resposta sendo igual o nosso conjunto universo de estudo.
 ```
 <br>
+
+<!-- THANK YOU, GOODBYE -->
 
 ----
 
