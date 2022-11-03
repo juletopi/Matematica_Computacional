@@ -19,7 +19,7 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://user-images.githubusercontent.com/76459155/199731138-9e89b6a6-b200-4a4d-8826-06efc7ddf2c6.png" alt="ComputerMath-pic" width="114px"></a>
+<a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ComputerMath-pic.png"><img src="https://user-images.githubusercontent.com/76459155/199731138-9e89b6a6-b200-4a4d-8826-06efc7ddf2c6.png" alt="ComputerMath-pic" width="114px"></a>
 <h2 align="center">Matemática Computacional ➗</h2>
 
 <div align="center">
