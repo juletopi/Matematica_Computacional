@@ -411,6 +411,45 @@ A[A == 3] # <- Neste caso, a solicitação é classificada como unitária,
 A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
 # possíveis, com nossa resposta sendo igual o nosso conjunto universo de estudo.
 ```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 10. Conceito, estrutura e aplicação de Funções
+> *Retirado da [aula 10](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_10.R) de Matemática Computacional*
+
+Nesta aula foram aprendidos: 
+- Conceitos de funções simples e compostas
+- Aplicação de funções com 1 ou 2 variáveis
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_10
+```r
+#O conceito de função é a relação entre dois conjuntos.
+#Temos o conjunto de entrada ou domínio da função e o
+#conjunto de saída ou imagem. Em suma, caracteriza-se
+#pela relação entre duas ou mais estruturas dependentes.
+
+#Exemplo: Função com UMA variável ↴
+{
+  par <- function(x){
+    calculo_par <- 2*x
+    sprintf("O valor par do índice %s é %s!", x, calculo_par)
+  }
+}
+par(x) # <- No final é substituido o x por qualquer valor, afim de
+                 # apresentaro índice do valor par
+
+#Exemplo: Função com DUAS variáveis ↴
+{
+  area_retangulo <- function(largura, comprimento){
+    area_calculada <- largura*comprimento
+    sprintf("A área do retângulo de largura %s e comprimento %s é de %sm²", largura, comprimento, area_calculada)
+  }
+}
+area_retangulo(largura = x, comprimento = x)
+```
+
 <br>
 
 <!-- THANK YOU, GOODBYE -->
