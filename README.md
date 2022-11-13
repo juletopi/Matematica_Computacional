@@ -52,7 +52,7 @@ e a linguagem **R** como ferramentas de aprendizado.
 
 <a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/GleisonGuardia-pic.png"><img src="https://user-images.githubusercontent.com/76459155/194717653-91217446-148d-4459-bad3-95b60d71743b.png" align="left" width="135px" height="135px" alt="GleisonGuardia-pic"></a>
 
-**Gleison Guardia - Pesquisador da Matemática e Ciência de Dados | Professor de Curso Técnico e Superior | Diretor de Ensino de Graduação** \
+**Gleison Guardia - Pesquisador da Matemática e Ciência de Dados | Professor de Curso Técnico e Superior | Diretor de Ensino** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Atuando desde Julho de 2013</i> \
 Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `Python`\
 Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
