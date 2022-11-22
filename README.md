@@ -420,7 +420,7 @@ A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
 > *Retirado da [aula 10](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_10.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
-- Conceitos de funções simples e compostas
+- Conceitos de aplicação de funções
 - Aplicação de funções com 1 ou 2 variáveis
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_10
@@ -448,6 +448,42 @@ par(x) # <- No final é substituido o x por qualquer valor, afim de
   }
 }
 area_retangulo(largura = x, comprimento = x)
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 11. Funções compostas e de retorno
+> *Retirado da [aula 11](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_11.R) de Matemática Computacional*
+
+Nesta aula foram aprendidos: 
+- Conceitos de funções compostas e de retorno
+- Função de equação quadrática
+- Função de progressão aritmética
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_11
+```r
+#Função com Retorno ↴
+
+#Usado para situações onde o valor gerado será aproveitado por outra função.
+#Ela não é uma função que vai imprimir um resultado na tela, apenas 
+#fará um cálculo que poderá ser utilizado em outro momento.
+{
+  dobro <- function(x){
+    f_dobro <- 2*x
+    return(f_dobro)
+  }
+  dobro(2)
+}
+
+#Função Composta ↴
+
+#A característica de uma função composta é poder aplicar uma função
+#dentro de outra função. Por exemplo: "O Dobro do Dobro de x"
+{
+  sprintf("O dobro do dobro de 5 é %s!", dobro(dobro(5)))
+}
 ```
 
 <br>
