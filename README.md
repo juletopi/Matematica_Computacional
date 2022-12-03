@@ -486,6 +486,22 @@ Nesta aula foram aprendidos:
 }
 ```
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
+</div>
+
+### 12.
+> *Retirado da [aula 12]() de Matemática Computacional*
+
+Nesta aula foram aprendidos: 
+- 
+- 
+
+**Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_11
+```r
+
+```
+
 <br>
 
 <!-- THANK YOU, GOODBYE -->
