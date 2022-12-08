@@ -490,16 +490,41 @@ Nesta aula foram aprendidos:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
 </div>
 
-### 12.
-> *Retirado da [aula 12]() de Matemática Computacional*
+### 12. Função de Progressão Geométrica
+> *Retirado da [aula 12](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_12.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
-- 
-- 
+- Estrutura de equação geométrica
+- Função de progressão geométrica
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_11
 ```r
+#Algoritmo de Progressão Geométrica:
+{
+  an <- function(a_1, n, q){
+    f_an = (a_1 * q**(n-1))
+    return(f_an)
+  }
+  sn <- function(a_1, n, q){
+    f_sn = (a_1 * (((q**n)-1)/(q-1)))
+    return(f_sn)
+  }
+  sprintf("Calculadora do Termo Geral e da Soma dos Termos da Progressão Geométrica")
+  
+  a_1 = as.numeric(readline(sprintf("Digite o valor do primeiro termo (a1): ")))
+  q = as.numeric(readline(sprintf("Digite o valor da razão da progressão (q): ")))
+  n = as.numeric(readline(sprintf("Digite o valor do termo procurado (n): ")))
+  
+  sprintf("O valor do termo geral é %s e o valor da soma dos termos é %s!",an(a_1, n, q),sn(a_1, n, q))
+}
 
+#O algoritmo acima ↑ calcula o termo geral e a soma de uma "Progressão Geométrica".
+#A progressão aritmética tem como formulas os seguintes valores:
+
+#Termo Geral "An = a1 ⋅ q^n−1", onde:
+a1 # <- é o primeiro termo da série.
+n # <- é o termo desejado.
+q # <- é a razão da progressão geométrica
 ```
 
 <br>
