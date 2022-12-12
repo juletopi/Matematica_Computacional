@@ -101,6 +101,7 @@ Nesta aula foram aprendidos:
 - Criação de algoritmos simples de definição de números Pares, Ímpares, Sucessores e Antecessores
 
 **Demais exemplos presentes no RPubs:** https://rpubs.com/Gleison_Guardia/mc_aula01
+
 ```r
 ?print( ) # <- Executa o argumento de um valor
 ?remove( ) # <- Remove um valor
@@ -115,6 +116,10 @@ print(par)
 remove(n) # <- Removido a variável "n"
 remove(par) # <- Removido a variável "par"
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -148,6 +153,10 @@ abs(-3) # <- A função sempre retornará um número positivo
 8%/%3  
 11%/%3
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -182,6 +191,10 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
               # não sendo necessário a sua declaração
 2 + 3 * pi
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -208,6 +221,10 @@ Im(z) # <- Retorna "3" como a parte imaginária
 
 cat("z1=",z1)
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -232,6 +249,10 @@ Nesta aula foram aprendidos:
   print(y)                  # valores de equações anteriores não se sobreponham
 }
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -274,6 +295,10 @@ Nesta aula foram aprendidos:
   }
 }
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -306,6 +331,10 @@ Nesta aula foram aprendidos:
   sprintf("A área da figura é %s!", A )
 }
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -336,6 +365,10 @@ Nesta aula foram aprendidos:
 #O algoritmo acima ↑ faz com que sejam pedidos o valor, a quantidade de parcelas
 #e o nº da parcela de um produto, resultando no valor final do produto.
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -367,6 +400,10 @@ Nesta aula foram aprendidos:
 #O algoritmo acima ↑ faz com que sejam pedidos o valor da capital, taxa de juros,
 #o tempo da aplicação e a escolha entre os juros simples ou composto.
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -403,6 +440,10 @@ Nesta aula foram aprendidos:
 #Os algoritmos acima ↑ fazem com que sejam pedidos o valor do bem, 
 #taxa de juros e o nº da parcela de um produto.
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -437,6 +478,10 @@ A[A == 3] # <- Neste caso, a solicitação é classificada como unitária,
 A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
 # possíveis, com nossa resposta sendo igual o nosso conjunto universo de estudo.
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -475,6 +520,10 @@ par(x) # <- No final é substituido o x por qualquer valor, afim de
 }
 area_retangulo(largura = x, comprimento = x)
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -511,6 +560,10 @@ Nesta aula foram aprendidos:
   sprintf("O dobro do dobro de 5 é %s!", dobro(dobro(5)))
 }
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -552,6 +605,10 @@ a1 # <- é o primeiro termo da série.
 n # <- é o termo desejado.
 q # <- é a razão da progressão geométrica
 ```
+<h6 align="left">
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
+<br>
+<br>
 
 <br>
 
