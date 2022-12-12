@@ -21,6 +21,7 @@
 <div align="center">
 <a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ComputerMath-pic.png"><img src="https://user-images.githubusercontent.com/76459155/199731138-9e89b6a6-b200-4a4d-8826-06efc7ddf2c6.png" alt="ComputerMath-pic" width="114px"></a>
 <h2 align="center">Matemática Computacional ➗</h2>
+</div>
 
 <div align="center">
 
@@ -35,6 +36,7 @@ e a linguagem **R** como ferramentas de aprendizado.
 </div>
 
 <!-- SUMMARY -->
+<div align="center">
 
 ## Sumário 🧾
 <p align="center">
@@ -57,6 +59,7 @@ e a linguagem **R** como ferramentas de aprendizado.
 <a href="#11-fun%C3%A7%C3%B5es-compostas-e-de-retorno">Conceitos Aprendidos 11</a> &#xa0; | &#xa0;
 <a href="#12-fun%C3%A7%C3%A3o-de-progress%C3%A3o-geom%C3%A9trica">Conceitos Aprendidos 12</a>
 </p>
+</div>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
