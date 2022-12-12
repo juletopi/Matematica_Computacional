@@ -35,26 +35,28 @@ e a linguagem **R** como ferramentas de aprendizado.
 </div>
 <br>
 
+<!-- SUMMARY -->
+
 ## Sumário
 <p align="center">
 <a href="#-professor">Professor</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 2</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 3</a>
+<a href="#1-coment%C3%A1rios-vari%C3%A1veis-operadores-e-fun%C3%A7%C3%B5es-print-e-remove">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
+<a href="#2-fun%C3%A7%C3%A3o-abs">Conceitos Aprendidos 2</a> &#xa0; | &#xa0;
+<a href="#3-ra%C3%ADzes-multiplas-%CF%80pi-e-fun%C3%A7%C3%A3o-sqrt">Conceitos Aprendidos 3</a>
 </p>
-<a href="">Conceitos Aprendidos 4</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 5</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 6</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 7</a>
+<a href="#4-n%C3%BAmeros-complexos-e-fun%C3%A7%C3%B5es-re-e-im">Conceitos Aprendidos 4</a> &#xa0; | &#xa0;
+<a href="#5-vari%C3%A1veis-matem%C3%A1ticas-e-utiliza%C3%A7%C3%A3o-de-">Conceitos Aprendidos 5</a> &#xa0; | &#xa0;
+<a href="#6-f%C3%B3rmula-de-bhaskara-e-fun%C3%A7%C3%A3o-ifelse">Conceitos Aprendidos 6</a> &#xa0; | &#xa0;
+<a href="#7-%C3%A1reas-volumes-e-fun%C3%A7%C3%A3o-readline">Conceitos Aprendidos 7</a>
 </p>
-<a href="">Conceitos Aprendidos 8.1</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 8.2</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 8.3</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 9</a>
+<a href="#81-algoritmo-financeiro-juros-e-porcentagem">Conceitos Aprendidos 8.1</a> &#xa0; | &#xa0;
+<a href="#82-algoritmo-financeiro-juros-simples-e-compostos">Conceitos Aprendidos 8.2</a> &#xa0; | &#xa0;
+<a href="#83-algoritmo-financeiro-parcelas-e-d%C3%ADvidas">Conceitos Aprendidos 8.3</a> &#xa0; | &#xa0;
+<a href="#9-teoria-dos-conjuntos-e-banco-de-dados">Conceitos Aprendidos 9</a>
 </p>
-<a href="">Conceitos Aprendidos 10</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 11</a> &#xa0; | &#xa0;
-<a href="">Conceitos Aprendidos 12</a>
+<a href="#10-conceito-estrutura-e-aplica%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es">Conceitos Aprendidos 10</a> &#xa0; | &#xa0;
+<a href="#11-fun%C3%A7%C3%B5es-compostas-e-de-retorno">Conceitos Aprendidos 11</a> &#xa0; | &#xa0;
+<a href="#12-fun%C3%A7%C3%A3o-de-progress%C3%A3o-geom%C3%A9trica">Conceitos Aprendidos 12</a>
 </p>
 
 <div align="center">
