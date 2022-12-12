@@ -33,11 +33,10 @@ e a linguagem **R** como ferramentas de aprendizado.
 <a href="https://www.datacamp.com/tutorial/r-studio-tutorial"><img src="https://img.shields.io/badge/Made%20with%20IDE:-RStudio%20-gray.svg?colorA=7a97b2&amp;colorB=76aada&amp;style=for-the-badge" alt="RStudioIDE-badge" style="max-width: 100%;"></a>
 <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/"><img src="https://img.shields.io/badge/Made%20with%20language:-R%20-gray.svg?colorA=5986c7&amp;colorB=1F65CC&amp;style=for-the-badge" alt="RLanguage-badge" style="max-width: 100%;"></a>
 </div>
-<br>
 
 <!-- SUMMARY -->
 
-## Sumário
+## Sumário 🧾
 <p align="center">
 <a href="#-professor">Professor</a> &#xa0; | &#xa0;
 <a href="#1-coment%C3%A1rios-vari%C3%A1veis-operadores-e-fun%C3%A7%C3%B5es-print-e-remove">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
