@@ -117,9 +117,7 @@ remove(n) # <- Removido a variável "n"
 remove(par) # <- Removido a variável "par"
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -154,9 +152,7 @@ abs(-3) # <- A função sempre retornará um número positivo
 11%/%3
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -192,9 +188,7 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 2 + 3 * pi
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -222,9 +216,7 @@ Im(z) # <- Retorna "3" como a parte imaginária
 cat("z1=",z1)
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -250,9 +242,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -296,9 +286,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -332,9 +320,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -366,9 +352,7 @@ Nesta aula foram aprendidos:
 #e o nº da parcela de um produto, resultando no valor final do produto.
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -401,9 +385,7 @@ Nesta aula foram aprendidos:
 #o tempo da aplicação e a escolha entre os juros simples ou composto.
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -441,9 +423,7 @@ Nesta aula foram aprendidos:
 #taxa de juros e o nº da parcela de um produto.
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -479,9 +459,7 @@ A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
 # possíveis, com nossa resposta sendo igual o nosso conjunto universo de estudo.
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -521,9 +499,7 @@ par(x) # <- No final é substituido o x por qualquer valor, afim de
 area_retangulo(largura = x, comprimento = x)
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -561,9 +537,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3b7fa4&height=4&section=header&%20render">
@@ -606,9 +580,7 @@ n # <- é o termo desejado.
 q # <- é a razão da progressão geométrica
 ```
 <h6 align="left">
-<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#matem%C3%A1tica-computacional-"> Voltar para o início ↺</a></h6>
 
 <br>
 
