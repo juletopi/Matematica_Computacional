@@ -93,6 +93,7 @@ Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, variáveis, operadores e funções "print(&#8196;&#8196;)" e "remove(&#8196;&#8196;)"
+> **Note** \
 > *Retirado da [aula 01](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_01.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -124,6 +125,7 @@ remove(par) # <- Removido a variável "par"
 </div>
 
 ### 2. Função "abs(&#8196;&#8196;)"
+> **Note** \
 > *Retirado da [aula 02](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_02.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -159,6 +161,7 @@ abs(-3) # <- A função sempre retornará um número positivo
 </div>
 
 ### 3. Raízes multiplas, π(pi) e função "sqrt(&#8196;&#8196;)"
+> **Note** \
 > *Retirado da [aula 03](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_03.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -195,6 +198,7 @@ sqrt(9) # <- A raiz quadrada de 9 é 3, porque 3 x 3 = 9
 </div>
 
 ### 4. Números complexos e funções "Re(&#8196;&#8196;)" e "Im(&#8196;&#8196;)"
+> **Note** \
 > *Retirado da [aula 04](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_04.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -223,6 +227,7 @@ cat("z1=",z1)
 </div>
 
 ### 5. Variáveis matemáticas e utilização de "{&#8196;&#8196;}"
+> **Note** \
 > *Retirado da [aula 05](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_05.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -249,6 +254,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 6. Fórmula de bhaskara e função "If/Else"
+> **Note** \
 > *Retirado da [aula 06](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_06.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -293,6 +299,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 7. Áreas, volumes e função "readline(&#8196;&#8196;)"
+> **Note** \
 > *Retirado da [aula 07](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_07.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -327,6 +334,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8.1. Algoritmo Financeiro (Juros e Porcentagem)
+> **Note** \
 > *Retirado da [aula 08.1](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08-1.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -359,6 +367,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8.2. Algoritmo Financeiro (Juros Simples e Compostos)
+> **Note** \
 > *Retirado da [aula 08.2](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08-2.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos:
@@ -392,6 +401,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 8.3. Algoritmo Financeiro (Parcelas e Dívidas)
+> **Note** \
 > *Retirado da [aula 08.3](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_08-3.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos:
@@ -430,6 +440,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 9. Teoria dos Conjuntos e Banco de Dados
+> **Note** \
 > *Retirado da [aula 09](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_09.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -466,6 +477,7 @@ A[A < 10] # <- E neste caso, o retorno é satisfatório para todos os valores
 </div>
 
 ### 10. Conceito, estrutura e aplicação de Funções
+> **Note** \
 > *Retirado da [aula 10](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_10.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -506,6 +518,7 @@ area_retangulo(largura = x, comprimento = x)
 </div>
 
 ### 11. Funções compostas e de retorno
+> **Note** \
 > *Retirado da [aula 11](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_11.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
@@ -544,6 +557,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 12. Função de Progressão Geométrica
+> **Note** \
 > *Retirado da [aula 12](https://github.com/juletopi/Matematica_Computacional/blob/main/Aulas/Matematica_Computacional_Aula_12.R) de Matemática Computacional*
 
 Nesta aula foram aprendidos: 
