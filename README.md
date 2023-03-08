@@ -589,7 +589,7 @@ q # <- é a razão da progressão geométrica
 ----
 
 <div align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/223619259-200bbf3e-e601-45ad-8bfd-48b5bf105df6.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Azul)-pic"/></a>
+<a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/ObrigadoPorVisitar(Azul)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/223619259-200bbf3e-e601-45ad-8bfd-48b5bf105df6.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Azul)-pic"/></a>
 </div>
 
 <div align="center">
