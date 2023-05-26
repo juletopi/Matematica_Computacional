@@ -11,7 +11,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/github/license/juletopi/Matematica_Computacional" alt="MITLiscence-badge">
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Matematica_Computacional.github-visitors-badge" alt="PageVisitors-badge">
 </div>
 
 <br>
