@@ -66,7 +66,8 @@
   </p>
     <a href="#10-conceito-estrutura-e-aplica%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es">Conceitos Aprendidos 10</a> &#xa0; | &#xa0;
     <a href="#11-fun%C3%A7%C3%B5es-compostas-e-de-retorno">Conceitos Aprendidos 11</a> &#xa0; | &#xa0;
-    <a href="#12-fun%C3%A7%C3%A3o-de-progress%C3%A3o-geom%C3%A9trica">Conceitos Aprendidos 12</a>
+    <a href="#12-fun%C3%A7%C3%A3o-de-progress%C3%A3o-geom%C3%A9trica">Conceitos Aprendidos 12</a> &#xa0; | &#xa0;
+    <a href="#-autor">Autor</a>
   </p>
 </div>
 
