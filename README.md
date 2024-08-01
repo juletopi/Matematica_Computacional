@@ -43,8 +43,6 @@
 
 <!-- SUMMARY -->
 
-<div align="center">
-
 <h2 align="center">Sumário 🧾</h2>
 
 <div align="center">
@@ -84,8 +82,6 @@
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=A%20Matemática:%20o%20incontornável%20fundamento%20de%20todas%20as%20ciências%20e%20a%20generosa%20fonte%20de%20benefícios%20para%20os%20assuntos%20humanos.&author=Issac%20Barrow)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
-<div align="left">
-
 <!-- ABOUT TEACHER -->
 
 ## 👨‍🏫 Professor:
@@ -93,15 +89,11 @@
 <a href="https://github.com/juletopi/Matematica_Computacional/blob/main/Assets/Images/GleisonGuardia-pic.png">
   <img align="left" width="135px" height="135px" alt="GleisonGuardia-pic" title="Professor Glesison Guardia" src="https://user-images.githubusercontent.com/76459155/194717653-91217446-148d-4459-bad3-95b60d71743b.png">
 </a>
-
-<div align="left">
  
   **Gleison Guardia - Pesquisador da Matemática e Ciência de Dados | Professor de Curso Técnico e Superior | Diretor de Ensino** \
   [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Atuando desde Julho de 2013</i> \
   Linguagens & Tecnologias: `RStudio` • `R (Linguagem)` • `Google Colab` • `Python`\
   Contato: **[gleison.guardia@ifro.edu.br](mailto:gleison.guardia@ifro.edu.br)**
-
-</div>
 
 <br>
 
